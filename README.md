@@ -41,8 +41,8 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1nhpham2k4&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="m1nhpham2k4" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=m1nhpham2k4&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt=",m1nhpham2k4" width="100%"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="m1nhpham2k4's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1nhpham2k4&langs_count=8&layout=compact&theme=cobalt&border_color=7cebf5&border_radius=10&show_icons=true" height="192px"/></a>
+        <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bagumeow's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=m1nhpham2k4&show_icons=true&count_private=true&theme=cobalt&border_color=7cebf5&border_radius=10&show_icons=true" height="192px"/></a>
     </td>
     <td>
       <p align="center"> 
