@@ -41,7 +41,7 @@
 <table style="width:100%;">
   <tr>
     <td>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="m1nhpham2k4's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1nhpham2k4&langs_count=8&layout=compact&theme=cobalt&border_color=7cebf5&border_radius=10&show_icons=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="m1nhpham2k4's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=8&layout=compact&theme=cobalt&border_color=7cebf5&border_radius=10&show_icons=true" height="192px"/></a>
         <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bagumeow's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=m1nhpham2k4&show_icons=true&count_private=true&theme=cobalt&border_color=7cebf5&border_radius=10&show_icons=true" height="192px"/></a>
     </td>
     <td>
