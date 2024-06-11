@@ -41,7 +41,7 @@
 <table style="width:100%;">
   <tr>
     <td>
-        <img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=m1nhpham2k4&show_icons=true&theme=transparent"/>
+        <img alt="MinhPham's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=m1nhpham2k4&show_icons=true&theme=transparent"/>
         <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1nhpham2k4&layout=compact&&langs_count=8"/>
     </td>
     <td>
